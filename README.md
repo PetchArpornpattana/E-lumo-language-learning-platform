@@ -196,6 +196,12 @@ E-Lumo reflects a practical example of combining **Product Thinking, Agile Deliv
 
 ---
 
+## 📌 Definition of Done
+
+- ![Definition of Done](assets/definition-of-done.png)
+
+---
+
 ## 🧠 Key Learnings
 
 Through this project, I strengthened my ability to:
