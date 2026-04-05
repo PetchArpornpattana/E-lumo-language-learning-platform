@@ -167,7 +167,7 @@ The prototype was designed to create a motivating and intuitive user experience 
 - Profile / Rewards
 
 ### Prototype Screens
-<img src="assets/wireframes-home.png" width="300"/>
+- ![Home](assets/wireframes-home.png)
 - ![Quiz](assets/wireframes-quiz.png)
 - ![Profile](assets/wireframes-content.png)
 
