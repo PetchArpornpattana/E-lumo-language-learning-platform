@@ -74,10 +74,9 @@ These personas informed:
 - roadmap direction
 
 ### Persona Assets
-<p align="center">
-  <img src="assets/personas1.png" width="45%"/>
-  <img src="assets/personas2.png" width="45%"/>
-</p>
+- ![Personas1](assets/personas1.png)
+- ![Personas2](assets/personas2.png)
+
 ---
 
 ## 🧩 MVP Strategy
@@ -170,6 +169,11 @@ The prototype was designed to create a motivating and intuitive user experience 
 - ![Home](assets/wireframes-home.png)
 - ![Quiz](assets/wireframes-quiz.png)
 - ![Profile](assets/wireframes-content.png)
+<p align="center">
+  <img src="assets/wireframes-home.png" width="45%"/>
+  <img src="assets/wireframes-quiz.png" width="45%"/>
+  <img src="assets/wireframes-content.png" width="45%"/>
+</p>
 
 ---
 
