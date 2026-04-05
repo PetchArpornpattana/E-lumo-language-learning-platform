@@ -2,7 +2,7 @@
 ### Designing a Gamified Language-Learning Experience Through Agile Product Development
 
 <p align="center">
-  <img src="assets/hero-cover.png" width="700"/>
+  <img src="assets/prototype.png" width="700"/>
 </p>
 ---
 
