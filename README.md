@@ -228,7 +228,6 @@ Through this project, I strengthened my ability to:
 - MVP Planning
 - Release Roadmapping
 
-- [tools-and-links](references/tools-and-links.pdf)
 
 ---
 
