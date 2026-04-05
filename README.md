@@ -2,7 +2,8 @@
 ### Designing a Gamified Language-Learning Experience Through Agile Product Development
 
 <p align="center">
-  <img src="assets/prototype.png" width="700"/>
+  <img src="assets/hero-cover.png" width="500"/>
+  <img src="assets/prototype.png" width="500"/>
 </p>
 
 > A gamified language-learning platform designed using Agile product development to improve engagement, retention, and user motivation.
