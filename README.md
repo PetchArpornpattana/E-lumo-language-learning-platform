@@ -4,6 +4,7 @@
 <p align="center">
   <img src="assets/prototype.png" width="700"/>
 </p>
+
 ---
 
 ## 🚀 What This Project Is About
