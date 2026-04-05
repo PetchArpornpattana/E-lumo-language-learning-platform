@@ -168,7 +168,7 @@ The prototype was designed to create a motivating and intuitive user experience 
 ### Prototype Screens
 
 <p align="center">
-  <img src="assets/wireframes-home.png" width="300"/>
+  <img src="assets/wireframes-home.png" width="200"/>
 </p>
 
 - ![Quiz](assets/wireframes-quiz.png)
