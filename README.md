@@ -1,6 +1,9 @@
 # 🎓 E-Lumo Language Learning Platform
 ### Designing a Gamified Language-Learning Experience Through Agile Product Development
 
+<p align="center">
+  <img src="assets/hero-cover.png" width="700"/>
+</p>
 ---
 
 ## 🚀 What This Project Is About
