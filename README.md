@@ -220,12 +220,15 @@ Through this project, I strengthened my ability to:
 - Sketch
 - Canva
 - Trello
+- Xtensio
 - Agile / Scrum
 - MoSCoW Prioritisation
 - Story Point Estimation
 - User Personas
 - MVP Planning
 - Release Roadmapping
+
+- [tools-and-links](references/tools-and-links.pdf)
 
 ---
 
