@@ -74,9 +74,10 @@ These personas informed:
 - roadmap direction
 
 ### Persona Assets
-- ![Personas1](assets/personas1.png)
-- ![Personas2](assets/personas2.png)
-
+<p align="center">
+  <img src="assets/personas1.png" width="45%"/>
+  <img src="assets/personas2.png" width="45%"/>
+</p>
 ---
 
 ## 🧩 MVP Strategy
@@ -115,8 +116,10 @@ The backlog included:
 - Average team velocity: ~19 story points per sprint
 
 ### Agile Planning Assets
-- ![Backlog](assets/backlog.png)
-- ![Story Cards](assets/story-cards.png)
+- ![Backlog1](assets/backlog1.png)
+- ![Backlog2](assets/backlog2.png)
+- ![Story Cards1](assets/story-cards1.png)
+- ![Story Cards2](assets/story-cards2.png)
 - ![Roadmap1](assets/mvp-roadmap1.png)
 - ![Roadmap2](assets/mvp-roadmap2.png)
 - ![Release1](assets/mvp-release1.png)
@@ -164,7 +167,7 @@ The prototype was designed to create a motivating and intuitive user experience 
 - Profile / Rewards
 
 ### Prototype Screens
-- ![Home](assets/wireframes-home.png)
+<img src="assets/wireframes-home.png" width="300"/>
 - ![Quiz](assets/wireframes-quiz.png)
 - ![Profile](assets/wireframes-content.png)
 
