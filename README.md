@@ -125,8 +125,8 @@ The backlog included:
 - ![Story Cards2](assets/story-cards2.png)
 - ![Roadmap1](assets/mvp-roadmap1.png)
 - ![Roadmap2](assets/mvp-roadmap2.png)
-- ![Release1](assets/mvp-release1.png)
-- ![Release2](assets/mvp-release2.png)
+- ![Release1](assets/release1.png)
+- ![Release2](assets/release2.png)
 
 ---
 
