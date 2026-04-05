@@ -5,6 +5,8 @@
   <img src="assets/prototype.png" width="700"/>
 </p>
 
+> A gamified language-learning platform designed using Agile product development to improve engagement, retention, and user motivation.
+
 ---
 
 ## 🚀 What This Project Is About
